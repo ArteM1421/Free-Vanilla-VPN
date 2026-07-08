@@ -3,10 +3,6 @@
 #support-url: https://t.me/DomainRy
 #announce: Наш сервер в майнкрафт: Vanilasmp.mineserver.xyz 1.16.5 - 1.21.11
 
-# ============================================================
-# FREE СЕРВЕРЫ (ОРИГИНАЛЬНЫЕ РАБОЧИЕ)
-# ============================================================
-
 vless://33bb6880-03c0-5ada-b3fe-4c5300cbd8b4@89.124.69.82:1310?path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&security=&encryption=none&host=play.google.com&fp=chrome&type=ws#Vanilla%20(FREE)%20#1
 vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.122.72:80?path=%2FeyJqdW5rIjoiVXRIT2UwaDUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=&encryption=none&host=billowing-cloud-d339.sospanel.workers.dev&type=ws#Vanilla%20(FREE)%20#2
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?path=%2F&security=&encryption=none&host=main.boobie.eu.cc&type=ws#Vanilla%20(FREE)%20#3
@@ -21,64 +17,4 @@ vless://9ae7432c-317f-40e1-b551-a03f0e0e7ca7@grok.com:443?path=%2FeyJqdW5rIjoicV
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#Vanilla%20(FREE)%20#12
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#Vanilla%20(FREE)%20#13
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@23.235.42.205:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#Vanilla%20(FREE)%20#14
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=www.node-finder.click#Vanilla%20(FREE)%20#15
-
-# ============================================================
-# PLUS СЕРВЕРЫ (ЗАГЛУШКИ)
-# ============================================================
-
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#1
-vless://00000000-0000-0000-0000-000000000001@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#2
-vless://00000000-0000-0000-0000-000000000002@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#3
-vless://00000000-0000-0000-0000-000000000003@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#4
-vless://00000000-0000-0000-0000-000000000004@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#5
-vless://00000000-0000-0000-0000-000000000005@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#6
-vless://00000000-0000-0000-0000-000000000006@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#7
-vless://00000000-0000-0000-0000-000000000007@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#8
-vless://00000000-0000-0000-0000-000000000008@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#9
-vless://00000000-0000-0000-0000-000000000009@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#10
-vless://00000000-0000-0000-0000-000000000010@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#11
-vless://00000000-0000-0000-0000-000000000011@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#12
-vless://00000000-0000-0000-0000-000000000012@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#13
-vless://00000000-0000-0000-0000-000000000013@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#14
-vless://00000000-0000-0000-0000-000000000014@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PLUS)%20#15
-
-# ============================================================
-# PREMIUM СЕРВЕРЫ (ЗАГЛУШКИ)
-# ============================================================
-
-vless://00000000-0000-0000-0000-000000000100@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#1
-vless://00000000-0000-0000-0000-000000000101@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#2
-vless://00000000-0000-0000-0000-000000000102@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#3
-vless://00000000-0000-0000-0000-000000000103@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#4
-vless://00000000-0000-0000-0000-000000000104@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#5
-vless://00000000-0000-0000-0000-000000000105@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#6
-vless://00000000-0000-0000-0000-000000000106@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#7
-vless://00000000-0000-0000-0000-000000000107@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#8
-vless://00000000-0000-0000-0000-000000000108@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#9
-vless://00000000-0000-0000-0000-000000000109@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#10
-vless://00000000-0000-0000-0000-000000000110@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#11
-vless://00000000-0000-0000-0000-000000000111@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#12
-vless://00000000-0000-0000-0000-000000000112@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#13
-vless://00000000-0000-0000-0000-000000000113@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#14
-vless://00000000-0000-0000-0000-000000000114@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(PREMIUM)%20#15
-
-# ============================================================
-# MAX СЕРВЕРЫ (ЗАГЛУШКИ)
-# ============================================================
-
-vless://00000000-0000-0000-0000-000000000200@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#1
-vless://00000000-0000-0000-0000-000000000201@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#2
-vless://00000000-0000-0000-0000-000000000202@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#3
-vless://00000000-0000-0000-0000-000000000203@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#4
-vless://00000000-0000-0000-0000-000000000204@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#5
-vless://00000000-0000-0000-0000-000000000205@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#6
-vless://00000000-0000-0000-0000-000000000206@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#7
-vless://00000000-0000-0000-0000-000000000207@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#8
-vless://00000000-0000-0000-0000-000000000208@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#9
-vless://00000000-0000-0000-0000-000000000209@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#10
-vless://00000000-0000-0000-0000-000000000210@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#11
-vless://00000000-0000-0000-0000-000000000211@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#12
-vless://00000000-0000-0000-0000-000000000212@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#13
-vless://00000000-0000-0000-0000-000000000213@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#14
-vless://00000000-0000-0000-0000-000000000214@0.0.0.0:0000?security=none&encryption=none&type=tcp#Vanilla%20(MAX)%20#15
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?
