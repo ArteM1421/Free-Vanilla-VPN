@@ -3,6 +3,10 @@
 #support-url: https://t.me/DomainRy
 #announce: Наш сервер в майнкрафт: Vanilasmp.mineserver.xyz 1.16.5 - 1.21.11
 
+# ============================================================
+# FREE СЕРВЕРЫ (ОРИГИНАЛЬНЫЕ РАБОЧИЕ)
+# ============================================================
+
 vless://33bb6880-03c0-5ada-b3fe-4c5300cbd8b4@89.124.69.82:1310?path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&security=&encryption=none&host=play.google.com&fp=chrome&type=ws#Vanilla%20(FREE)%20#1
 vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.122.72:80?path=%2FeyJqdW5rIjoiVXRIT2UwaDUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=&encryption=none&host=billowing-cloud-d339.sospanel.workers.dev&type=ws#Vanilla%20(FREE)%20#2
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?path=%2F&security=&encryption=none&host=main.boobie.eu.cc&type=ws#Vanilla%20(FREE)%20#3
@@ -17,4 +21,4 @@ vless://9ae7432c-317f-40e1-b551-a03f0e0e7ca7@grok.com:443?path=%2FeyJqdW5rIjoicV
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#Vanilla%20(FREE)%20#12
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#Vanilla%20(FREE)%20#13
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@23.235.42.205:80?mode=auto&path=%2Flogin&security=&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#Vanilla%20(FREE)%20#14
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=www.node-finder.click#Vanilla%20(FREE)%20#15
