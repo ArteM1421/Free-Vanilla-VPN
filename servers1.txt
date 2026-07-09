@@ -82,3 +82,4 @@ vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.168.3:443?path=%2F&security
 vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:443?path=%2F&security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&fp=firefox&type=xhttp&sni=speed.cloudflare.com#Vanilla%20(FREE)%20#73
 trojan://s.wRSE4ANZp4%3D4h.%3DB_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=www.logger-guard.click#Vanilla%20(FREE)%20#74
 vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@2.26.88.118:8443?mode=gun&security=reality&encryption=none&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&fp=chrome&spx=%2F&type=grpc&serviceName=max.ru&sid=ea1058117be12087#Vanilla%20(FREE)%20#75
+serviceName=max.ru&sid=ea1058117be12087#Vanilla%20(Premium)%20#1
